@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "blog-content-publishing",
+      "category": "marketing",
+      "title": "Blog Content Publishing Template",
+      "description": "Plan, write, review, and publish blog posts from idea to live",
+      "stages_count": 6,
+      "labels_count": 8,
+      "tasks_count": 10,
+      "background_url": null,
+      "background_color": null,
+      "type": "to-do",
+      "template_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/templates/Blog_Content_Publishing_Template_user_id_1_1789446601.json"
+    },
+    {
+      "id": "client-website-project",
+      "category": "project-management",
+      "title": "Client Website Project Board",
+      "description": "Manage client website projects from intake and discovery through design, development, review, and launch.",
+      "stages_count": 6,
+      "labels_count": 7,
+      "tasks_count": 12,
+      "background_url": null,
+      "background_color": "#8C8920",
+      "type": "to-do",
+      "template_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/templates/Client_Website_Project_Board_user_id_1_1789446662.json"
+    },
+    {
+      "id": "content-calendar",
+      "category": "marketing",
+      "title": "Content Calendar Board",
+      "description": "Plan and produce content from ideation through scheduling to publication",
+      "stages_count": 5,
+      "labels_count": 7,
+      "tasks_count": 8,
+      "background_url": null,
+      "background_color": null,
+      "type": "to-do",
+      "template_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/templates/Content_Calendar_Board_user_id_1_1789446825.json"
+    },
+    {
+      "id": "employee-onboarding",
+      "category": "hr",
+      "title": "Employee Onboarding Board",
+      "description": "Guide new hires through every step from day one to full integration",
+      "stages_count": 5,
+      "labels_count": 7,
+      "tasks_count": 9,
+      "background_url": null,
+      "background_color": null,
+      "type": "to-do",
+      "template_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/templates/Employee_Onboarding_Board_user_id_1_1789446804.json"
+    },
+    {
+      "id": "public-feature-roadmap",
+      "category": "development",
+      "title": "Public Feature Roadmap",
+      "description": "Communicate upcoming product features and priorities to your audience",
+      "stages_count": 7,
+      "labels_count": 6,
+      "tasks_count": 15,
+      "background_url": null,
+      "background_color": "linear-gradient(145deg, #5E69F9 0%, #F3A6FB 100%)",
+      "type": "roadmap",
+      "template_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/templates/Public_Feature_Roadmap_user_id_1_1789446711.json"
+    },
+    {
+      "id": "sales-pipeline",
+      "category": "sales",
+      "title": "Sales Pipeline Board",
+      "description": "Move deals from first contact to closed won with clear stage-by-stage tracking",
+      "stages_count": 6,
+      "labels_count": 7,
+      "tasks_count": 12,
+      "background_url": null,
+      "background_color": "#522BC1",
+      "type": "to-do",
+      "template_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/templates/Sales_Pipeline_Board_user_id_1_1789446777.json"
+    },
+    {
+      "id": "support-escalation",
+      "category": "other",
+      "title": "Support Escalation Board",
+      "description": "Track, prioritize, and resolve customer support issues through to closure",
+      "stages_count": 6,
+      "labels_count": 8,
+      "tasks_count": 11,
+      "background_url": null,
+      "background_color": null,
+      "type": "to-do",
+      "template_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/templates/Support_Escalation_Board_user_id_1_1789446634.json"
+    },
+    {
+      "id": "website-maintenance-retainer",
+      "category": "development",
+      "title": "Website Maintenance & Retainer Board",
+      "description": "Organize recurring tasks, monthly work, and client escalations for retainer clients",
+      "stages_count": 6,
+      "labels_count": 7,
+      "tasks_count": 10,
+      "background_url": null,
+      "background_color": null,
+      "type": "to-do",
+      "template_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/templates/Website_Maintenance_%26_Retainer_Board_user_id_1_1789446736.json"
+    }
+  ]
+}
