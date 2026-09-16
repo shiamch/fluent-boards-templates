@@ -1,0 +1,950 @@
+{
+  "key": "FluentBoards",
+  "site_url": "http://fluentboards-staging.local/",
+  "board": {
+    "id": 23,
+    "parent_id": null,
+    "title": "Employee Onboarding Board",
+    "description": "Guide new hires through every step from day one to full integration\n",
+    "type": "to-do",
+    "currency": "USD",
+    "background": {
+      "color": null,
+      "id": 27,
+      "image_url": "http://fluentboards-staging.local/index.php?fbs=1&fbs_type=public_url&fbs_bid=23&fbs_comment_image=cccca84ae7a8ae635b006ea66dc02b5d",
+      "is_image": true
+    },
+    "settings": {
+      "tasks_count": 9,
+      "is_template": true,
+      "template_category": "hr"
+    },
+    "created_by": "1",
+    "archived_at": null,
+    "meta": {
+      "custom_field_positions": "yes",
+      "csv_export_1": "a:6:{s:6:\"status\";s:7:\"succeed\";s:8:\"progress\";i:10;s:4:\"user\";i:1;s:9:\"file_path\";s:163:\"/Users/naderahmedchowdhury/Local Sites/fluentboards-staging/app/public/wp-content/uploads/fluent-boards/board_23/Employee_Onboarding_Board_user_id_1_1788254213.csv\";s:11:\"total_tasks\";i:10;s:7:\"last_id\";i:201;}",
+      "json_export_1": "a:5:{s:6:\"status\";s:9:\"preparing\";s:8:\"progress\";i:0;s:4:\"user\";i:1;s:9:\"file_path\";s:164:\"/Users/naderahmedchowdhury/Local Sites/fluentboards-staging/app/public/wp-content/uploads/fluent-boards/board_23/Employee_Onboarding_Board_user_id_1_1789446804.json\";s:11:\"total_tasks\";i:10;}"
+    },
+    "isUserOnlyViewer": false,
+    "stages": [
+      {
+        "id": 270,
+        "board_id": "23",
+        "title": "New Hire",
+        "slug": "new-hire",
+        "type": "stage",
+        "position": "1.00",
+        "color": null,
+        "bg_color": "#579dff",
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:03+00:00",
+        "updated_at": "2026-09-01T09:17:48+00:00"
+      },
+      {
+        "id": 271,
+        "board_id": "23",
+        "title": "Paperwork & Access",
+        "slug": "paperwork-&-access",
+        "type": "stage",
+        "position": "2.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:03+00:00",
+        "updated_at": "2026-08-26T05:33:03+00:00"
+      },
+      {
+        "id": 272,
+        "board_id": "23",
+        "title": "Training",
+        "slug": "training",
+        "type": "stage",
+        "position": "3.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:03+00:00",
+        "updated_at": "2026-08-26T05:33:03+00:00"
+      },
+      {
+        "id": 273,
+        "board_id": "23",
+        "title": "30-Day Check-in",
+        "slug": "30-day-check-in",
+        "type": "stage",
+        "position": "4.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:03+00:00",
+        "updated_at": "2026-08-26T05:33:03+00:00"
+      },
+      {
+        "id": 274,
+        "board_id": "23",
+        "title": "Completed",
+        "slug": "completed",
+        "type": "stage",
+        "position": "5.00",
+        "color": null,
+        "bg_color": "#4bce97",
+        "settings": {
+          "default_task_status": "closed",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:03+00:00",
+        "updated_at": "2026-09-01T09:17:39+00:00"
+      }
+    ],
+    "labels": [
+      {
+        "id": 264,
+        "board_id": "23",
+        "title": "Full-Time",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#47B6E8",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:03+00:00",
+        "updated_at": "2026-09-01T09:04:55+00:00"
+      },
+      {
+        "id": 265,
+        "board_id": "23",
+        "title": "Contractor",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#7C4DFF",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:03+00:00",
+        "updated_at": "2026-09-01T09:04:59+00:00"
+      },
+      {
+        "id": 266,
+        "board_id": "23",
+        "title": "Remote",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#F2B51D",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:03+00:00",
+        "updated_at": "2026-09-01T09:05:03+00:00"
+      },
+      {
+        "id": 267,
+        "board_id": "23",
+        "title": "In-Office",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#25C16F",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:03+00:00",
+        "updated_at": "2026-09-01T09:05:08+00:00"
+      },
+      {
+        "id": 268,
+        "board_id": "23",
+        "title": "Manager Review Pending",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#FF3B4A",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:03+00:00",
+        "updated_at": "2026-09-01T09:05:14+00:00"
+      },
+      {
+        "id": 269,
+        "board_id": "23",
+        "title": "Urgent",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#F97316",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:03+00:00",
+        "updated_at": "2026-09-01T09:05:18+00:00"
+      },
+      {
+        "id": 310,
+        "board_id": "23",
+        "title": "Feature Tip",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#D1D654",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-09-01T09:13:42+00:00",
+        "updated_at": "2026-09-01T09:13:42+00:00"
+      }
+    ],
+    "users": [],
+    "custom_fields": [],
+    "tasks": [
+      {
+        "id": 192,
+        "parent_id": null,
+        "board_id": "23",
+        "crm_contact_id": null,
+        "title": "A card is created automatically once a new hire accepts an offer.",
+        "slug": "send-welcome-email-and-first-day-agenda",
+        "type": "task",
+        "status": "open",
+        "stage_id": "270",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Driven by form submission, not manual entry.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "0.25",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:14:00+00:00",
+        "updated_at": "2026-09-01T09:04:23+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "192",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:00+00:00",
+              "updated_at": "2026-08-26T06:14:00+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 193,
+        "parent_id": null,
+        "board_id": "23",
+        "crm_contact_id": null,
+        "title": "Connect a Fluent Forms new-hire intake form",
+        "slug": "set-up-workstation-and-accounts",
+        "type": "task",
+        "status": "open",
+        "stage_id": "270",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Configure a FluentBoards integration feed on your internal new-hire form. Name, start date, and department map in automatically from form fields the moment the form is submitted.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "0.50",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9CA0FF"
+          },
+          "subtask_count": "0",
+          "attachment_count": "1",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:14:01+00:00",
+        "updated_at": "2026-09-01T09:14:46+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "193",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:01+00:00",
+              "updated_at": "2026-08-26T06:14:01+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 310,
+            "board_id": "23",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T09:13:42+00:00",
+            "updated_at": "2026-09-01T09:13:42+00:00",
+            "pivot": {
+              "object_id": "193",
+              "foreign_id": "310",
+              "settings": null,
+              "created_at": "2026-09-01T09:13:49+00:00",
+              "updated_at": "2026-09-01T09:13:49+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 194,
+        "parent_id": null,
+        "board_id": "23",
+        "crm_contact_id": null,
+        "title": "A card moves here once the new hire's start date is confirmed",
+        "slug": "complete-hr-forms-and-contracts",
+        "type": "task",
+        "status": "open",
+        "stage_id": "271",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Pre-boarding begins — contracts, IT provisioning, account setup — all before day one.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:14:03+00:00",
+        "updated_at": "2026-09-01T09:03:39+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "194",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:03+00:00",
+              "updated_at": "2026-08-26T06:14:03+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 195,
+        "parent_id": null,
+        "board_id": "23",
+        "crm_contact_id": null,
+        "title": "Break this into subtasks for each access item",
+        "slug": "grant-system-access-and-tool-licences",
+        "type": "task",
+        "status": "open",
+        "stage_id": "271",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Use subtasks for contract signing, email setup, tool access, and hardware — so nothing is missed before the person's first day.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9CA0FF"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:14:05+00:00",
+        "updated_at": "2026-09-01T09:14:32+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "195",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:05+00:00",
+              "updated_at": "2026-08-26T06:14:05+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 310,
+            "board_id": "23",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T09:13:42+00:00",
+            "updated_at": "2026-09-01T09:13:42+00:00",
+            "pivot": {
+              "object_id": "195",
+              "foreign_id": "310",
+              "settings": null,
+              "created_at": "2026-09-01T09:14:18+00:00",
+              "updated_at": "2026-09-01T09:14:18+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 196,
+        "parent_id": null,
+        "board_id": "23",
+        "crm_contact_id": null,
+        "title": "A card moves here once the new hire's first day arrives",
+        "slug": "complete-product-and-process-training",
+        "type": "task",
+        "status": "open",
+        "stage_id": "272",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Onboarding training starts — active ramp-up, not paperwork.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:14:06+00:00",
+        "updated_at": "2026-09-01T09:15:02+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "196",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:06+00:00",
+              "updated_at": "2026-08-26T06:14:06+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 197,
+        "parent_id": null,
+        "board_id": "23",
+        "crm_contact_id": null,
+        "title": "Save your onboarding checklist as a task template",
+        "slug": "shadow-senior-team-member-for-one-week",
+        "type": "task",
+        "status": "open",
+        "stage_id": "272",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Reuse the same training structure for every new hire instead of rebuilding the checklist from scratch each time someone joins.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9CA0FF"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:14:08+00:00",
+        "updated_at": "2026-09-01T09:15:22+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "197",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:08+00:00",
+              "updated_at": "2026-08-26T06:14:08+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 310,
+            "board_id": "23",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T09:13:42+00:00",
+            "updated_at": "2026-09-01T09:13:42+00:00",
+            "pivot": {
+              "object_id": "197",
+              "foreign_id": "310",
+              "settings": null,
+              "created_at": "2026-09-01T09:15:25+00:00",
+              "updated_at": "2026-09-01T09:15:25+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 198,
+        "parent_id": null,
+        "board_id": "23",
+        "crm_contact_id": null,
+        "title": "A card moves here once the new hire has been onboard roughly a month",
+        "slug": "schedule-30-day-review-with-manager",
+        "type": "task",
+        "status": "open",
+        "stage_id": "273",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "A scheduled review point, not an open-ended stage.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:14:10+00:00",
+        "updated_at": "2026-09-01T09:16:37+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "198",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:10+00:00",
+              "updated_at": "2026-08-26T06:14:10+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 199,
+        "parent_id": null,
+        "board_id": "23",
+        "crm_contact_id": null,
+        "title": "Add a custom field for manager feedback",
+        "slug": "collect-new-hire-feedback-survey",
+        "type": "task",
+        "status": "open",
+        "stage_id": "273",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Log check-in notes directly on the card so onboarding progress is visible without digging through email threads.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9CA0FF"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:14:11+00:00",
+        "updated_at": "2026-09-01T09:16:21+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "199",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:11+00:00",
+              "updated_at": "2026-08-26T06:14:11+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 310,
+            "board_id": "23",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T09:13:42+00:00",
+            "updated_at": "2026-09-01T09:13:42+00:00",
+            "pivot": {
+              "object_id": "199",
+              "foreign_id": "310",
+              "settings": null,
+              "created_at": "2026-09-01T09:16:13+00:00",
+              "updated_at": "2026-09-01T09:16:13+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 200,
+        "parent_id": null,
+        "board_id": "23",
+        "crm_contact_id": null,
+        "title": "A card moves here once onboarding is formally closed out",
+        "slug": "confirm-all-onboarding-tasks-signed-off",
+        "type": "task",
+        "status": "closed",
+        "stage_id": "274",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Fully ramped, no more scheduled check-ins.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:14:13+00:00",
+        "updated_at": "2026-09-01T09:17:37+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "200",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:13+00:00",
+              "updated_at": "2026-08-26T06:14:13+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 201,
+        "parent_id": null,
+        "board_id": "23",
+        "crm_contact_id": null,
+        "title": "Feature tip — export completed onboarding records to CSV.",
+        "slug": "add-employee-to-all-active-team-channels",
+        "type": "task",
+        "status": "closed",
+        "stage_id": "274",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Useful for HR record-keeping or auditing onboarding completion rates over time.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "0.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": "2026-09-01 09:17:26",
+        "created_at": "2026-08-26T06:14:15+00:00",
+        "updated_at": "2026-09-01T09:17:26+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "201",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:15+00:00",
+              "updated_at": "2026-08-26T06:14:15+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      }
+    ]
+  }
+}

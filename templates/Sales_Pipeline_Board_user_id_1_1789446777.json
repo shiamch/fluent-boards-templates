@@ -1,0 +1,1139 @@
+{
+  "key": "FluentBoards",
+  "site_url": "http://fluentboards-staging.local/",
+  "board": {
+    "id": 21,
+    "parent_id": null,
+    "title": "Sales Pipeline Board",
+    "description": "",
+    "type": "to-do",
+    "currency": "USD",
+    "background": {
+      "color": "#522BC1",
+      "image_url": null,
+      "is_image": false,
+      "id": "solid_16"
+    },
+    "settings": {
+      "tasks_count": 12,
+      "is_template": true,
+      "template_category": "sales",
+      "template_description": "Move deals from first contact to closed won with clear stage-by-stage tracking"
+    },
+    "created_by": "1",
+    "archived_at": null,
+    "meta": {
+      "custom_field_positions": "yes",
+      "json_export_1": "a:5:{s:6:\"status\";s:9:\"preparing\";s:8:\"progress\";i:0;s:4:\"user\";i:1;s:9:\"file_path\";s:159:\"/Users/naderahmedchowdhury/Local Sites/fluentboards-staging/app/public/wp-content/uploads/fluent-boards/board_21/Sales_Pipeline_Board_user_id_1_1789446777.json\";s:11:\"total_tasks\";i:12;}"
+    },
+    "isUserOnlyViewer": false,
+    "stages": [
+      {
+        "id": 247,
+        "board_id": "21",
+        "title": "Lead",
+        "slug": "lead",
+        "type": "stage",
+        "position": "1.00",
+        "color": null,
+        "bg_color": "#579dff",
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:00+00:00",
+        "updated_at": "2026-09-01T09:38:25+00:00"
+      },
+      {
+        "id": 248,
+        "board_id": "21",
+        "title": "Qualified",
+        "slug": "qualified",
+        "type": "stage",
+        "position": "2.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:00+00:00",
+        "updated_at": "2026-08-26T05:33:00+00:00"
+      },
+      {
+        "id": 249,
+        "board_id": "21",
+        "title": "Proposal Sent",
+        "slug": "proposal-sent",
+        "type": "stage",
+        "position": "3.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:00+00:00",
+        "updated_at": "2026-08-26T05:33:00+00:00"
+      },
+      {
+        "id": 250,
+        "board_id": "21",
+        "title": "Negotiation",
+        "slug": "negotiation",
+        "type": "stage",
+        "position": "4.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:00+00:00",
+        "updated_at": "2026-08-26T05:33:00+00:00"
+      },
+      {
+        "id": 251,
+        "board_id": "21",
+        "title": "Closed Won",
+        "slug": "closed-won",
+        "type": "stage",
+        "position": "5.00",
+        "color": null,
+        "bg_color": "#4bce97",
+        "settings": {
+          "default_task_status": "closed",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:00+00:00",
+        "updated_at": "2026-09-01T09:38:37+00:00"
+      },
+      {
+        "id": 252,
+        "board_id": "21",
+        "title": "Closed Lost",
+        "slug": "closed-lost",
+        "type": "stage",
+        "position": "6.00",
+        "color": null,
+        "bg_color": "#f87462",
+        "settings": {
+          "default_task_status": "closed",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:00+00:00",
+        "updated_at": "2026-09-01T09:39:24+00:00"
+      }
+    ],
+    "labels": [
+      {
+        "id": 241,
+        "board_id": "21",
+        "title": "Hot Lead",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#47B6E8",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:00+00:00",
+        "updated_at": "2026-09-01T09:30:02+00:00"
+      },
+      {
+        "id": 242,
+        "board_id": "21",
+        "title": "Cold Lead",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#7C4DFF",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:00+00:00",
+        "updated_at": "2026-09-01T09:30:06+00:00"
+      },
+      {
+        "id": 243,
+        "board_id": "21",
+        "title": "Enterprise",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#F2B51D",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:00+00:00",
+        "updated_at": "2026-09-01T09:30:10+00:00"
+      },
+      {
+        "id": 244,
+        "board_id": "21",
+        "title": "SMB",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#F97316",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:00+00:00",
+        "updated_at": "2026-09-01T09:30:18+00:00"
+      },
+      {
+        "id": 245,
+        "board_id": "21",
+        "title": "Renewal",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#25C16F",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:00+00:00",
+        "updated_at": "2026-09-01T09:30:24+00:00"
+      },
+      {
+        "id": 246,
+        "board_id": "21",
+        "title": "High Value",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#335CFF",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:00+00:00",
+        "updated_at": "2026-09-01T09:30:28+00:00"
+      },
+      {
+        "id": 311,
+        "board_id": "21",
+        "title": "Feature Tip",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#D1D654",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-09-01T09:31:02+00:00",
+        "updated_at": "2026-09-01T09:31:42+00:00"
+      }
+    ],
+    "users": [],
+    "custom_fields": [],
+    "tasks": [
+      {
+        "id": 170,
+        "parent_id": null,
+        "board_id": "21",
+        "crm_contact_id": null,
+        "title": "A card lands here as soon as a new lead comes in",
+        "slug": "discovery-call-with-acme-corp",
+        "type": "task",
+        "status": "open",
+        "stage_id": "247",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Cold outreach response, inbound form fill, or referral. Nothing needs qualifying yet — this is capture, not evaluation.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:23+00:00",
+        "updated_at": "2026-09-01T09:29:42+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "170",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:23+00:00",
+              "updated_at": "2026-08-26T06:13:23+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 171,
+        "parent_id": null,
+        "board_id": "21",
+        "crm_contact_id": null,
+        "title": "Link this card to a FluentCRM contact",
+        "slug": "linkedin-outreach-to-techstart-ceo",
+        "type": "task",
+        "status": "open",
+        "stage_id": "247",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Associate any card with a FluentCRM contact for full contact history, email activity, and tags without leaving the board. If FluentCRM automations are set up, adding a contact to this board can also trigger a funnel, such as starting a nurture sequence.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9f8fef"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:25+00:00",
+        "updated_at": "2026-09-01T09:32:06+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "171",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:25+00:00",
+              "updated_at": "2026-08-26T06:13:25+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 311,
+            "board_id": "21",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T09:31:02+00:00",
+            "updated_at": "2026-09-01T09:31:42+00:00",
+            "pivot": {
+              "object_id": "171",
+              "foreign_id": "311",
+              "settings": null,
+              "created_at": "2026-09-01T09:32:00+00:00",
+              "updated_at": "2026-09-01T09:32:00+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 172,
+        "parent_id": null,
+        "board_id": "21",
+        "crm_contact_id": null,
+        "title": "Move a card here once budget, authority, need, and timeline are confirmed",
+        "slug": "send-pricing-deck-to-brightpath",
+        "type": "task",
+        "status": "open",
+        "stage_id": "248",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "A card that fails qualification goes to Closed Lost, not backward to Lead.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:26+00:00",
+        "updated_at": "2026-09-01T09:32:26+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "172",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:26+00:00",
+              "updated_at": "2026-08-26T06:13:26+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 173,
+        "parent_id": null,
+        "board_id": "21",
+        "crm_contact_id": null,
+        "title": "Set a default assignee for this stage",
+        "slug": "schedule-product-demo-for-novatech",
+        "type": "task",
+        "status": "open",
+        "stage_id": "248",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Designate whoever owns qualification calls, so every card landing here is automatically routed to them instead of sitting unclaimed.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9f8fef"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:28+00:00",
+        "updated_at": "2026-09-01T09:32:45+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "173",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:28+00:00",
+              "updated_at": "2026-08-26T06:13:28+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 311,
+            "board_id": "21",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T09:31:02+00:00",
+            "updated_at": "2026-09-01T09:31:42+00:00",
+            "pivot": {
+              "object_id": "173",
+              "foreign_id": "311",
+              "settings": null,
+              "created_at": "2026-09-01T09:32:41+00:00",
+              "updated_at": "2026-09-01T09:32:41+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 174,
+        "parent_id": null,
+        "board_id": "21",
+        "crm_contact_id": null,
+        "title": "A card moves here the moment a proposal is actually sent",
+        "slug": "follow-up-on-proposal-greenleaf",
+        "type": "task",
+        "status": "open",
+        "stage_id": "249",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Not while it's still being drafted internally.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:29+00:00",
+        "updated_at": "2026-09-01T09:32:58+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "174",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:29+00:00",
+              "updated_at": "2026-08-26T06:13:29+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 175,
+        "parent_id": null,
+        "board_id": "21",
+        "crm_contact_id": null,
+        "title": "Break the card into subtasks for draft, internal review, and send",
+        "slug": "proposal-review-call-with-summit-group",
+        "type": "task",
+        "status": "open",
+        "stage_id": "249",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "See at a glance whether a proposal is stuck in drafting, waiting on internal sign-off, or already sent.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9f8fef"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:31+00:00",
+        "updated_at": "2026-09-01T09:33:19+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "175",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:31+00:00",
+              "updated_at": "2026-08-26T06:13:31+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 311,
+            "board_id": "21",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T09:31:02+00:00",
+            "updated_at": "2026-09-01T09:31:42+00:00",
+            "pivot": {
+              "object_id": "175",
+              "foreign_id": "311",
+              "settings": null,
+              "created_at": "2026-09-01T09:33:16+00:00",
+              "updated_at": "2026-09-01T09:33:16+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 176,
+        "parent_id": null,
+        "board_id": "21",
+        "crm_contact_id": null,
+        "title": "Move a card here once the prospect responds with questions or requested changes",
+        "slug": "contract-revision-for-pinnacle-media",
+        "type": "task",
+        "status": "open",
+        "stage_id": "250",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Active back-and-forth, not silence.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:33+00:00",
+        "updated_at": "2026-09-01T09:33:33+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "176",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:33+00:00",
+              "updated_at": "2026-08-26T06:13:33+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 177,
+        "parent_id": null,
+        "board_id": "21",
+        "crm_contact_id": null,
+        "title": "Add a custom field for deal value",
+        "slug": "negotiate-retainer-terms-with-bluewave",
+        "type": "task",
+        "status": "open",
+        "stage_id": "250",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "With deal value set on every card, see total pipeline worth at a glance without opening FluentCRM separately.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9f8fef"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:34+00:00",
+        "updated_at": "2026-09-01T09:33:53+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "177",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:34+00:00",
+              "updated_at": "2026-08-26T06:13:34+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 311,
+            "board_id": "21",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T09:31:02+00:00",
+            "updated_at": "2026-09-01T09:31:42+00:00",
+            "pivot": {
+              "object_id": "177",
+              "foreign_id": "311",
+              "settings": null,
+              "created_at": "2026-09-01T09:33:50+00:00",
+              "updated_at": "2026-09-01T09:33:50+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 178,
+        "parent_id": null,
+        "board_id": "21",
+        "crm_contact_id": null,
+        "title": "A card moves here only once a signed agreement or confirmed payment exists.",
+        "slug": "onboarding-kickoff-apex-solutions",
+        "type": "task",
+        "status": "closed",
+        "stage_id": "251",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "A verbal yes isn't enough to move it from Negotiation.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:36+00:00",
+        "updated_at": "2026-09-01T06:27:53+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "178",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:36+00:00",
+              "updated_at": "2026-08-26T06:13:36+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 179,
+        "parent_id": null,
+        "board_id": "21",
+        "crm_contact_id": null,
+        "title": "Trigger a FluentCRM automation on stage change",
+        "slug": "send-welcome-package-to-new-client",
+        "type": "task",
+        "status": "open",
+        "stage_id": "251",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Moving a card into Closed Won can kick off a CRM-side action — tagging the contact, starting an onboarding sequence — automatically, without a manual handoff.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9f8fef"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:37+00:00",
+        "updated_at": "2026-09-01T09:37:55+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "179",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:37+00:00",
+              "updated_at": "2026-08-26T06:13:37+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 311,
+            "board_id": "21",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T09:31:02+00:00",
+            "updated_at": "2026-09-01T09:31:42+00:00",
+            "pivot": {
+              "object_id": "179",
+              "foreign_id": "311",
+              "settings": null,
+              "created_at": "2026-09-01T09:37:52+00:00",
+              "updated_at": "2026-09-01T09:37:52+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 180,
+        "parent_id": null,
+        "board_id": "21",
+        "crm_contact_id": null,
+        "title": "A card moves here when the prospect explicitly declines or goes silent.",
+        "slug": "post-mortem-why-we-lost-redwood-deal",
+        "type": "task",
+        "status": "closed",
+        "stage_id": "252",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Past a defined follow-up window, or the deal is no longer viable.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:39+00:00",
+        "updated_at": "2026-09-01T06:27:57+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "180",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:39+00:00",
+              "updated_at": "2026-08-26T06:13:39+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 181,
+        "parent_id": null,
+        "board_id": "21",
+        "crm_contact_id": null,
+        "title": "Log the reason lost in a custom field",
+        "slug": "re-engagement-plan-for-cold-prospects",
+        "type": "task",
+        "status": "closed",
+        "stage_id": "252",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "A dedicated \"Reason Lost\" field, filled consistently, lets you filter and spot patterns over time — pricing objections, timing, competitor wins.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9f8fef"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:40+00:00",
+        "updated_at": "2026-09-01T09:38:59+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "181",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:40+00:00",
+              "updated_at": "2026-08-26T06:13:40+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 311,
+            "board_id": "21",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T09:31:02+00:00",
+            "updated_at": "2026-09-01T09:31:42+00:00",
+            "pivot": {
+              "object_id": "181",
+              "foreign_id": "311",
+              "settings": null,
+              "created_at": "2026-09-01T09:38:56+00:00",
+              "updated_at": "2026-09-01T09:38:56+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,927 @@
+{
+  "key": "FluentBoards",
+  "site_url": "http://fluentboards-staging.local/",
+  "board": {
+    "id": 25,
+    "parent_id": null,
+    "title": "Content Calendar Board",
+    "description": "Plan and produce content from ideation through scheduling to publication\n",
+    "type": "to-do",
+    "currency": "USD",
+    "background": {
+      "color": null,
+      "id": 33,
+      "image_url": "http://fluentboards-staging.local/index.php?fbs=1&fbs_type=public_url&fbs_bid=25&fbs_comment_image=82f709866d5c39a604b6e620735dab4e",
+      "is_image": true
+    },
+    "settings": {
+      "tasks_count": 8,
+      "is_template": true,
+      "template_category": "marketing"
+    },
+    "created_by": "1",
+    "archived_at": null,
+    "meta": {
+      "custom_field_positions": "yes",
+      "json_export_1": "a:5:{s:6:\"status\";s:9:\"preparing\";s:8:\"progress\";i:0;s:4:\"user\";i:1;s:9:\"file_path\";s:161:\"/Users/naderahmedchowdhury/Local Sites/fluentboards-staging/app/public/wp-content/uploads/fluent-boards/board_25/Content_Calendar_Board_user_id_1_1789446825.json\";s:11:\"total_tasks\";i:10;}"
+    },
+    "isUserOnlyViewer": false,
+    "stages": [
+      {
+        "id": 293,
+        "board_id": "25",
+        "title": "Content Ideas",
+        "slug": "content-ideas",
+        "type": "stage",
+        "position": "1.00",
+        "color": null,
+        "bg_color": "#579dff",
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:08+00:00",
+        "updated_at": "2026-09-01T10:08:12+00:00"
+      },
+      {
+        "id": 295,
+        "board_id": "25",
+        "title": "In Production",
+        "slug": "in-production",
+        "type": "stage",
+        "position": "1.50",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:08+00:00",
+        "updated_at": "2026-09-01T10:05:29+00:00"
+      },
+      {
+        "id": 296,
+        "board_id": "25",
+        "title": "Review",
+        "slug": "review",
+        "type": "stage",
+        "position": "1.75",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:08+00:00",
+        "updated_at": "2026-09-01T10:06:11+00:00"
+      },
+      {
+        "id": 294,
+        "board_id": "25",
+        "title": "Scheduled",
+        "slug": "scheduled",
+        "type": "stage",
+        "position": "2.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:08+00:00",
+        "updated_at": "2026-08-26T05:33:08+00:00"
+      },
+      {
+        "id": 297,
+        "board_id": "25",
+        "title": "Published",
+        "slug": "published",
+        "type": "stage",
+        "position": "5.00",
+        "color": null,
+        "bg_color": "#4bce97",
+        "settings": {
+          "default_task_status": "closed",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:08+00:00",
+        "updated_at": "2026-09-01T10:08:21+00:00"
+      }
+    ],
+    "labels": [
+      {
+        "id": 287,
+        "board_id": "25",
+        "title": "Social",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#335CFF",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:08+00:00",
+        "updated_at": "2026-09-01T10:03:11+00:00"
+      },
+      {
+        "id": 288,
+        "board_id": "25",
+        "title": "Email",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#F97316",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:08+00:00",
+        "updated_at": "2026-09-01T10:03:15+00:00"
+      },
+      {
+        "id": 289,
+        "board_id": "25",
+        "title": "Blog Promo",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#7C4DFF",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:08+00:00",
+        "updated_at": "2026-09-01T10:03:42+00:00"
+      },
+      {
+        "id": 290,
+        "board_id": "25",
+        "title": "Campaign-Tied",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#25C16F",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:08+00:00",
+        "updated_at": "2026-09-01T10:03:26+00:00"
+      },
+      {
+        "id": 291,
+        "board_id": "25",
+        "title": "Evergreen",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#F2B51D",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:08+00:00",
+        "updated_at": "2026-09-01T10:03:32+00:00"
+      },
+      {
+        "id": 292,
+        "board_id": "25",
+        "title": "High Priority",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#FF3B4A",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:33:08+00:00",
+        "updated_at": "2026-09-01T10:03:36+00:00"
+      },
+      {
+        "id": 313,
+        "board_id": "25",
+        "title": "Feature Tip",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#D1D654",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-09-01T10:03:50+00:00",
+        "updated_at": "2026-09-01T10:04:02+00:00"
+      }
+    ],
+    "users": [],
+    "custom_fields": [],
+    "tasks": [
+      {
+        "id": 214,
+        "parent_id": null,
+        "board_id": "25",
+        "crm_contact_id": null,
+        "title": "A card lands here once a content idea comes up for any channel",
+        "slug": "brainstorm-q3-blog-topics",
+        "type": "task",
+        "status": "open",
+        "stage_id": "293",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Social post, newsletter blurb, promo — not yet scheduled.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:14:36+00:00",
+        "updated_at": "2026-09-01T09:59:52+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "214",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:36+00:00",
+              "updated_at": "2026-08-26T06:14:36+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 215,
+        "parent_id": null,
+        "board_id": "25",
+        "crm_contact_id": null,
+        "title": "Set priority to flag time-sensitive content",
+        "slug": "compile-keyword-research-for-next-month",
+        "type": "task",
+        "status": "open",
+        "stage_id": "293",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Separates evergreen ideas from anything tied to a launch date or campaign window.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9f8fef"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:14:37+00:00",
+        "updated_at": "2026-09-01T10:04:26+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "215",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:37+00:00",
+              "updated_at": "2026-08-26T06:14:37+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 313,
+            "board_id": "25",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T10:03:50+00:00",
+            "updated_at": "2026-09-01T10:04:02+00:00",
+            "pivot": {
+              "object_id": "215",
+              "foreign_id": "313",
+              "settings": null,
+              "created_at": "2026-09-01T10:04:22+00:00",
+              "updated_at": "2026-09-01T10:04:22+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 216,
+        "parent_id": null,
+        "board_id": "25",
+        "crm_contact_id": null,
+        "title": "A card moves here once a publish date is confirmed",
+        "slug": "schedule-instagram-posts-for-next-week",
+        "type": "task",
+        "status": "open",
+        "stage_id": "294",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "This is a commitment to a date, not just an idea anymore.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:14:39+00:00",
+        "updated_at": "2026-09-01T10:05:12+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "216",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:39+00:00",
+              "updated_at": "2026-08-26T06:14:39+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 217,
+        "parent_id": null,
+        "board_id": "25",
+        "crm_contact_id": null,
+        "title": "Use the Calendar View to see everything scheduled at once",
+        "slug": "book-guest-author-article-slot",
+        "type": "task",
+        "status": "open",
+        "stage_id": "294",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "The Calendar View lays out every card by its due date, so you can spot gaps or overloaded days across every channel in one glance instead of checking each stage separately.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9f8fef"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:14:40+00:00",
+        "updated_at": "2026-09-01T10:04:50+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "217",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:40+00:00",
+              "updated_at": "2026-08-26T06:14:40+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 313,
+            "board_id": "25",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T10:03:50+00:00",
+            "updated_at": "2026-09-01T10:04:02+00:00",
+            "pivot": {
+              "object_id": "217",
+              "foreign_id": "313",
+              "settings": null,
+              "created_at": "2026-09-01T10:04:46+00:00",
+              "updated_at": "2026-09-01T10:04:46+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 218,
+        "parent_id": null,
+        "board_id": "25",
+        "crm_contact_id": null,
+        "title": "A card moves here once someone starts actually creating the content",
+        "slug": "write-draft-for-top-10-tools-post",
+        "type": "task",
+        "status": "open",
+        "stage_id": "295",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Writing, designing, or filming — active work.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:14:42+00:00",
+        "updated_at": "2026-09-01T10:05:50+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "218",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:42+00:00",
+              "updated_at": "2026-08-26T06:14:42+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 219,
+        "parent_id": null,
+        "board_id": "25",
+        "crm_contact_id": null,
+        "title": "Feature tip — add a custom field for channel (social, email, blog promo).",
+        "slug": "record-intro-video-for-email-campaign",
+        "type": "task",
+        "status": "open",
+        "stage_id": "295",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Keeps the channel visible on the card so filtering or scanning the board by platform is easy.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "0.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": "2026-09-01 10:05:05",
+        "created_at": "2026-08-26T06:14:44+00:00",
+        "updated_at": "2026-09-01T10:05:05+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "219",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:44+00:00",
+              "updated_at": "2026-08-26T06:14:44+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 220,
+        "parent_id": null,
+        "board_id": "25",
+        "crm_contact_id": null,
+        "title": "A card moves here once a draft is ready for approval before it goes out",
+        "slug": "proofread-september-newsletter",
+        "type": "task",
+        "status": "open",
+        "stage_id": "296",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Not final yet — pending sign-off.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:14:46+00:00",
+        "updated_at": "2026-09-01T10:06:23+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "220",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:46+00:00",
+              "updated_at": "2026-08-26T06:14:46+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 221,
+        "parent_id": null,
+        "board_id": "25",
+        "crm_contact_id": null,
+        "title": "Set a default assignee for this stage to your content lead",
+        "slug": "review-seo-metadata-for-new-articles",
+        "type": "task",
+        "status": "open",
+        "stage_id": "296",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Every card reaching this stage routes automatically to whoever gives final approval.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9f8fef"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:14:48+00:00",
+        "updated_at": "2026-09-01T10:07:22+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "221",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:48+00:00",
+              "updated_at": "2026-08-26T06:14:48+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 313,
+            "board_id": "25",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T10:03:50+00:00",
+            "updated_at": "2026-09-01T10:04:02+00:00",
+            "pivot": {
+              "object_id": "221",
+              "foreign_id": "313",
+              "settings": null,
+              "created_at": "2026-09-01T10:07:25+00:00",
+              "updated_at": "2026-09-01T10:07:25+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 222,
+        "parent_id": null,
+        "board_id": "25",
+        "crm_contact_id": null,
+        "title": "A card moves here once the content is live on its channel",
+        "slug": "publish-and-distribute-weekly-digest",
+        "type": "task",
+        "status": "closed",
+        "stage_id": "297",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Archive state.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:14:49+00:00",
+        "updated_at": "2026-09-01T10:08:05+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "222",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:49+00:00",
+              "updated_at": "2026-08-26T06:14:49+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 223,
+        "parent_id": null,
+        "board_id": "25",
+        "crm_contact_id": null,
+        "title": "Feature tip — export published content to CSV for reporting.",
+        "slug": "share-new-case-study-across-socials",
+        "type": "task",
+        "status": "closed",
+        "stage_id": "297",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Useful for reviewing output volume or content mix across channels over a given period.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "0.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": "2026-09-01 10:07:36",
+        "created_at": "2026-08-26T06:14:51+00:00",
+        "updated_at": "2026-09-01T10:07:36+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "223",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:14:51+00:00",
+              "updated_at": "2026-08-26T06:14:51+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      }
+    ]
+  }
+}

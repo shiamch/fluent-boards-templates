@@ -1,0 +1,1131 @@
+{
+  "key": "FluentBoards",
+  "site_url": "http://fluentboards-staging.local/",
+  "board": {
+    "id": 17,
+    "parent_id": null,
+    "title": "Support Escalation Board",
+    "description": "",
+    "type": "to-do",
+    "currency": "USD",
+    "background": {
+      "color": null,
+      "id": 11,
+      "image_url": "http://fluentboards-staging.local/index.php?fbs=1&fbs_type=public_url&fbs_bid=17&fbs_comment_image=0e6bb8da8b9f3bf8e3d014791cb56b62",
+      "is_image": true
+    },
+    "settings": {
+      "tasks_count": 11,
+      "is_template": true,
+      "template_category": "other",
+      "template_description": "Track, prioritize, and resolve customer support issues through to closure"
+    },
+    "created_by": "1",
+    "archived_at": null,
+    "meta": {
+      "custom_field_positions": "yes",
+      "json_export_1": "a:5:{s:6:\"status\";s:9:\"preparing\";s:8:\"progress\";i:0;s:4:\"user\";i:1;s:9:\"file_path\";s:163:\"/Users/naderahmedchowdhury/Local Sites/fluentboards-staging/app/public/wp-content/uploads/fluent-boards/board_17/Support_Escalation_Board_user_id_1_1789446634.json\";s:11:\"total_tasks\";i:12;}"
+    },
+    "isUserOnlyViewer": false,
+    "stages": [
+      {
+        "id": 199,
+        "board_id": "17",
+        "title": "New Tickets",
+        "slug": "new-tickets",
+        "type": "stage",
+        "position": "1.00",
+        "color": null,
+        "bg_color": "#579dff",
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:53+00:00",
+        "updated_at": "2026-09-01T09:20:55+00:00"
+      },
+      {
+        "id": 200,
+        "board_id": "17",
+        "title": "Triage",
+        "slug": "triage",
+        "type": "stage",
+        "position": "2.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:53+00:00",
+        "updated_at": "2026-08-26T05:32:53+00:00"
+      },
+      {
+        "id": 201,
+        "board_id": "17",
+        "title": "In Progress",
+        "slug": "in-progress",
+        "type": "stage",
+        "position": "3.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:53+00:00",
+        "updated_at": "2026-08-26T05:32:53+00:00"
+      },
+      {
+        "id": 202,
+        "board_id": "17",
+        "title": "Escalated",
+        "slug": "escalated",
+        "type": "stage",
+        "position": "4.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:53+00:00",
+        "updated_at": "2026-08-26T05:32:53+00:00"
+      },
+      {
+        "id": 203,
+        "board_id": "17",
+        "title": "Resolved",
+        "slug": "resolved",
+        "type": "stage",
+        "position": "5.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:53+00:00",
+        "updated_at": "2026-08-26T05:32:53+00:00"
+      },
+      {
+        "id": 204,
+        "board_id": "17",
+        "title": "Closed",
+        "slug": "closed",
+        "type": "stage",
+        "position": "6.00",
+        "color": null,
+        "bg_color": "#4bce97",
+        "settings": {
+          "default_task_status": "closed",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:53+00:00",
+        "updated_at": "2026-08-26T12:22:40+00:00"
+      }
+    ],
+    "labels": [
+      {
+        "id": 192,
+        "board_id": "17",
+        "title": "Bug",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#47B6E8",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:53+00:00",
+        "updated_at": "2026-08-26T12:14:36+00:00"
+      },
+      {
+        "id": 193,
+        "board_id": "17",
+        "title": "Feature Request",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#7C4DFF",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:53+00:00",
+        "updated_at": "2026-08-26T12:14:39+00:00"
+      },
+      {
+        "id": 194,
+        "board_id": "17",
+        "title": "Documentation",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#F2B51D",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:53+00:00",
+        "updated_at": "2026-08-26T12:14:43+00:00"
+      },
+      {
+        "id": 195,
+        "board_id": "17",
+        "title": "Billing/Refund",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#F97316",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:53+00:00",
+        "updated_at": "2026-08-26T12:14:49+00:00"
+      },
+      {
+        "id": 196,
+        "board_id": "17",
+        "title": "Waiting on Customer",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#335CFF",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:53+00:00",
+        "updated_at": "2026-08-26T12:14:56+00:00"
+      },
+      {
+        "id": 197,
+        "board_id": "17",
+        "title": "VIP Customer",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#6B7280",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:53+00:00",
+        "updated_at": "2026-08-26T12:14:59+00:00"
+      },
+      {
+        "id": 198,
+        "board_id": "17",
+        "title": "High Priority",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#25C16F",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:53+00:00",
+        "updated_at": "2026-08-26T12:15:12+00:00"
+      },
+      {
+        "id": 299,
+        "board_id": "17",
+        "title": "Feature Tip",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#D1D654",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T12:15:38+00:00",
+        "updated_at": "2026-08-26T12:15:38+00:00"
+      }
+    ],
+    "users": [],
+    "custom_fields": [],
+    "tasks": [
+      {
+        "id": 120,
+        "parent_id": null,
+        "board_id": "17",
+        "crm_contact_id": null,
+        "title": "Agents add a card here once a ticket is worth tracking",
+        "slug": "agents-add-a-card-here-once-a-ticket-is-worth-tracking",
+        "type": "task",
+        "status": "open",
+        "stage_id": "199",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "A bug, a feature request, anything beyond a quick reply — added manually, not automatically.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:01+00:00",
+        "updated_at": "2026-08-26T12:13:45+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "120",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:01+00:00",
+              "updated_at": "2026-08-26T06:10:01+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 121,
+        "parent_id": null,
+        "board_id": "17",
+        "crm_contact_id": null,
+        "title": "Use the Fluent Support integration",
+        "slug": "feature-tip-use-the-fluent-support-integration",
+        "type": "task",
+        "status": "open",
+        "stage_id": "199",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "From any ticket, use the three-dot menu and select \"Add Task to FluentBoards.\" Title and description pull in automatically; if the customer is a FluentCRM contact, they're linked to the task automatically. This is a manual, agent-triggered action per ticket, not automatic ingestion.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9CA0FF"
+          },
+          "subtask_count": "0",
+          "attachment_count": 1,
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:02+00:00",
+        "updated_at": "2026-08-27T09:03:22+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "121",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:02+00:00",
+              "updated_at": "2026-08-26T06:10:02+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 299,
+            "board_id": "17",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-08-26T12:15:38+00:00",
+            "updated_at": "2026-08-26T12:15:38+00:00",
+            "pivot": {
+              "object_id": "121",
+              "foreign_id": "299",
+              "settings": null,
+              "created_at": "2026-08-26T12:15:51+00:00",
+              "updated_at": "2026-08-26T12:15:51+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 122,
+        "parent_id": null,
+        "board_id": "17",
+        "crm_contact_id": null,
+        "title": "Move a card here once it's confirmed real and needs prioritizing",
+        "slug": "move-a-card-here-once-its-confirmed-real-and-needs-prioritizing",
+        "type": "task",
+        "status": "open",
+        "stage_id": "200",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Not a duplicate, spam, or already resolved.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:04+00:00",
+        "updated_at": "2026-08-26T12:16:34+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "122",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:04+00:00",
+              "updated_at": "2026-08-26T06:10:04+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 123,
+        "parent_id": null,
+        "board_id": "17",
+        "crm_contact_id": null,
+        "title": "Set a default assignee for this stage",
+        "slug": "feature-tip-set-a-default-assignee-for-this-stage",
+        "type": "task",
+        "status": "open",
+        "stage_id": "200",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Set a default assignee so tickets route automatically to whoever handles severity assessment, instead of sitting unclaimed.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9CA0FF"
+          },
+          "subtask_count": "0",
+          "attachment_count": 1,
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:06+00:00",
+        "updated_at": "2026-09-01T07:01:47+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "123",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:06+00:00",
+              "updated_at": "2026-08-26T06:10:06+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 299,
+            "board_id": "17",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-08-26T12:15:38+00:00",
+            "updated_at": "2026-08-26T12:15:38+00:00",
+            "pivot": {
+              "object_id": "123",
+              "foreign_id": "299",
+              "settings": null,
+              "created_at": "2026-08-26T12:16:57+00:00",
+              "updated_at": "2026-08-26T12:16:57+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 124,
+        "parent_id": null,
+        "board_id": "17",
+        "crm_contact_id": null,
+        "title": "A card moves here once someone is actively working the fix",
+        "slug": "a-card-moves-here-once-someone-is-actively-working-the-fix",
+        "type": "task",
+        "status": "open",
+        "stage_id": "201",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Not just assigned — underway.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:08+00:00",
+        "updated_at": "2026-08-26T12:18:33+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "124",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:08+00:00",
+              "updated_at": "2026-08-26T06:10:08+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 125,
+        "parent_id": null,
+        "board_id": "17",
+        "crm_contact_id": null,
+        "title": "Break the ticket into subtasks",
+        "slug": "feature-tip-break-the-ticket-into-subtasks",
+        "type": "task",
+        "status": "open",
+        "stage_id": "201",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Use subtasks for reproduce, fix, and verify, so anyone checking the board can see exactly which part is holding things up.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9CA0FF"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:09+00:00",
+        "updated_at": "2026-08-26T12:19:19+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "125",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:09+00:00",
+              "updated_at": "2026-08-26T06:10:09+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 299,
+            "board_id": "17",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-08-26T12:15:38+00:00",
+            "updated_at": "2026-08-26T12:15:38+00:00",
+            "pivot": {
+              "object_id": "125",
+              "foreign_id": "299",
+              "settings": null,
+              "created_at": "2026-08-26T12:19:02+00:00",
+              "updated_at": "2026-08-26T12:19:02+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 126,
+        "parent_id": null,
+        "board_id": "17",
+        "crm_contact_id": null,
+        "title": "Move a card here only when first-line support can't resolve it",
+        "slug": "move-a-card-here-only-when-first-line-support-cant-resolve-it",
+        "type": "task",
+        "status": "open",
+        "stage_id": "202",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Beyond normal scope, needs a specialist or developer.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:11+00:00",
+        "updated_at": "2026-08-26T12:19:50+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "126",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:11+00:00",
+              "updated_at": "2026-08-26T06:10:11+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 127,
+        "parent_id": null,
+        "board_id": "17",
+        "crm_contact_id": null,
+        "title": "Add a custom field for the assigned specialist and escalation reason",
+        "slug": "feature-tip-add-a-custom-field-for-the-assigned-specialist-and-escalation-reason",
+        "type": "task",
+        "status": "open",
+        "stage_id": "202",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Structured, filterable data instead of burying it in a long comment thread.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9CA0FF"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:13+00:00",
+        "updated_at": "2026-08-26T12:20:44+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "127",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:13+00:00",
+              "updated_at": "2026-08-26T06:10:13+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 299,
+            "board_id": "17",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-08-26T12:15:38+00:00",
+            "updated_at": "2026-08-26T12:15:38+00:00",
+            "pivot": {
+              "object_id": "127",
+              "foreign_id": "299",
+              "settings": null,
+              "created_at": "2026-08-26T12:20:16+00:00",
+              "updated_at": "2026-08-26T12:20:16+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 128,
+        "parent_id": null,
+        "board_id": "17",
+        "crm_contact_id": null,
+        "title": "A card moves here once a fix is live or an answer is given",
+        "slug": "a-card-moves-here-once-a-fix-is-live-or-an-answer-is-given",
+        "type": "task",
+        "status": "open",
+        "stage_id": "203",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Before the customer has confirmed it solved their problem.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:15+00:00",
+        "updated_at": "2026-08-26T12:21:00+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "128",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:15+00:00",
+              "updated_at": "2026-08-26T06:10:15+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 129,
+        "parent_id": null,
+        "board_id": "17",
+        "crm_contact_id": null,
+        "title": "Log time spent before moving to Closed",
+        "slug": "feature-tip-log-time-spent-before-moving-to-closed",
+        "type": "task",
+        "status": "open",
+        "stage_id": "203",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Time tracking gives real resolution-time data for spotting slow issue types and reporting against SLAs.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9CA0FF"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:16+00:00",
+        "updated_at": "2026-08-26T12:21:53+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "129",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:16+00:00",
+              "updated_at": "2026-08-26T06:10:16+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 299,
+            "board_id": "17",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-08-26T12:15:38+00:00",
+            "updated_at": "2026-08-26T12:15:38+00:00",
+            "pivot": {
+              "object_id": "129",
+              "foreign_id": "299",
+              "settings": null,
+              "created_at": "2026-08-26T12:21:28+00:00",
+              "updated_at": "2026-08-26T12:21:28+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 130,
+        "parent_id": null,
+        "board_id": "17",
+        "crm_contact_id": null,
+        "title": "A card moves here once the customer confirms resolution.",
+        "slug": "a-card-moves-here-once-the-customer-confirms-resolution",
+        "type": "task",
+        "status": "closed",
+        "stage_id": "204",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Or a defined follow-up window passes with no response.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:18+00:00",
+        "updated_at": "2026-08-26T06:10:18+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "130",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:18+00:00",
+              "updated_at": "2026-08-26T06:10:18+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 131,
+        "parent_id": null,
+        "board_id": "17",
+        "crm_contact_id": null,
+        "title": "Feature tip — export closed tickets to CSV.",
+        "slug": "feature-tip-export-closed-tickets-to-csv",
+        "type": "task",
+        "status": "closed",
+        "stage_id": "204",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Useful for reporting or spotting recurring issue patterns over a longer period than the board view makes easy to scan.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "0.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9CA0FF"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": "2026-08-26 12:22:28",
+        "created_at": "2026-08-26T06:10:19+00:00",
+        "updated_at": "2026-08-26T12:22:28+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "131",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:19+00:00",
+              "updated_at": "2026-08-26T06:10:19+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      }
+    ]
+  }
+}

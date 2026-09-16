@@ -1,0 +1,1138 @@
+{
+  "key": "FluentBoards",
+  "site_url": "http://fluentboards-staging.local/",
+  "board": {
+    "id": 18,
+    "parent_id": null,
+    "title": "Client Website Project Board",
+    "description": "",
+    "type": "to-do",
+    "currency": "USD",
+    "background": {
+      "color": "#8C8920",
+      "image_url": null,
+      "is_image": false,
+      "id": "solid_6"
+    },
+    "settings": {
+      "tasks_count": 12,
+      "is_template": true,
+      "template_category": "project-management"
+    },
+    "created_by": "1",
+    "archived_at": null,
+    "meta": {
+      "custom_field_positions": "yes",
+      "json_export_1": "a:5:{s:6:\"status\";s:9:\"preparing\";s:8:\"progress\";i:0;s:4:\"user\";i:1;s:9:\"file_path\";s:167:\"/Users/naderahmedchowdhury/Local Sites/fluentboards-staging/app/public/wp-content/uploads/fluent-boards/board_18/Client_Website_Project_Board_user_id_1_1789446662.json\";s:11:\"total_tasks\";i:12;}"
+    },
+    "isUserOnlyViewer": false,
+    "stages": [
+      {
+        "id": 211,
+        "board_id": "18",
+        "title": "Client Intake",
+        "slug": "client-intake",
+        "type": "stage",
+        "position": "1.00",
+        "color": null,
+        "bg_color": "#579dff",
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:55+00:00",
+        "updated_at": "2026-09-01T09:50:04+00:00"
+      },
+      {
+        "id": 212,
+        "board_id": "18",
+        "title": "Discovery & Scope",
+        "slug": "discovery-&-scope",
+        "type": "stage",
+        "position": "2.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:55+00:00",
+        "updated_at": "2026-08-26T05:32:55+00:00"
+      },
+      {
+        "id": 213,
+        "board_id": "18",
+        "title": "Design",
+        "slug": "design",
+        "type": "stage",
+        "position": "3.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:55+00:00",
+        "updated_at": "2026-08-26T05:32:55+00:00"
+      },
+      {
+        "id": 214,
+        "board_id": "18",
+        "title": "Development",
+        "slug": "development",
+        "type": "stage",
+        "position": "4.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:55+00:00",
+        "updated_at": "2026-08-26T05:32:55+00:00"
+      },
+      {
+        "id": 215,
+        "board_id": "18",
+        "title": "Client Review",
+        "slug": "client-review",
+        "type": "stage",
+        "position": "5.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:55+00:00",
+        "updated_at": "2026-08-26T05:32:55+00:00"
+      },
+      {
+        "id": 216,
+        "board_id": "18",
+        "title": "Launch",
+        "slug": "launch",
+        "type": "stage",
+        "position": "6.00",
+        "color": null,
+        "bg_color": "#4bce97",
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:55+00:00",
+        "updated_at": "2026-09-01T09:53:56+00:00"
+      }
+    ],
+    "labels": [
+      {
+        "id": 205,
+        "board_id": "18",
+        "title": "Fixed Scope",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#47B6E8",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:55+00:00",
+        "updated_at": "2026-09-01T09:44:50+00:00"
+      },
+      {
+        "id": 206,
+        "board_id": "18",
+        "title": "Retainer",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#7C4DFF",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:55+00:00",
+        "updated_at": "2026-09-01T09:44:54+00:00"
+      },
+      {
+        "id": 207,
+        "board_id": "18",
+        "title": "Rush/Urgent",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#FF3B4A",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:55+00:00",
+        "updated_at": "2026-09-01T09:44:59+00:00"
+      },
+      {
+        "id": 208,
+        "board_id": "18",
+        "title": "Awaiting Client",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#F2B51D",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:55+00:00",
+        "updated_at": "2026-09-01T09:45:03+00:00"
+      },
+      {
+        "id": 209,
+        "board_id": "18",
+        "title": "Design Approved",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#25C16F",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:55+00:00",
+        "updated_at": "2026-09-01T09:45:07+00:00"
+      },
+      {
+        "id": 210,
+        "board_id": "18",
+        "title": "Dev Blocked",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#6B7280",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:55+00:00",
+        "updated_at": "2026-09-01T09:45:14+00:00"
+      },
+      {
+        "id": 312,
+        "board_id": "18",
+        "title": "Feature Tip",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#D1D654",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-09-01T09:45:41+00:00",
+        "updated_at": "2026-09-01T09:45:41+00:00"
+      }
+    ],
+    "users": [],
+    "custom_fields": [],
+    "tasks": [
+      {
+        "id": 132,
+        "parent_id": null,
+        "board_id": "18",
+        "crm_contact_id": null,
+        "title": "A card is created automatically when a client submits your intake form",
+        "slug": "a-card-is-created-automatically-when-a-client-submits-your-intake-form",
+        "type": "task",
+        "status": "open",
+        "stage_id": "211",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Nothing added manually — submission drives creation.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:28+00:00",
+        "updated_at": "2026-09-01T09:45:55+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "132",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:28+00:00",
+              "updated_at": "2026-08-26T06:10:28+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 133,
+        "parent_id": null,
+        "board_id": "18",
+        "crm_contact_id": null,
+        "title": "Configure the Fluent Forms integration feed",
+        "slug": "feature-tip-configure-the-fluent-forms-integration-feed",
+        "type": "task",
+        "status": "open",
+        "stage_id": "211",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Title, description, and submitter details map in from form fields. Enable \"Map Files/Attachments to Task\" for auto-attach, and \"Create FluentCRM Contact\" if the client isn't already in your CRM.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9f8fef"
+          },
+          "subtask_count": "0",
+          "attachment_count": 1,
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:31+00:00",
+        "updated_at": "2026-09-01T09:48:30+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "133",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:31+00:00",
+              "updated_at": "2026-08-26T06:10:31+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 312,
+            "board_id": "18",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T09:45:41+00:00",
+            "updated_at": "2026-09-01T09:45:41+00:00",
+            "pivot": {
+              "object_id": "133",
+              "foreign_id": "312",
+              "settings": null,
+              "created_at": "2026-09-01T09:46:19+00:00",
+              "updated_at": "2026-09-01T09:46:19+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 134,
+        "parent_id": null,
+        "board_id": "18",
+        "crm_contact_id": null,
+        "title": "Move a card here once intake is reviewed",
+        "slug": "move-a-card-here-once-intake-is-reviewed",
+        "type": "task",
+        "status": "open",
+        "stage_id": "212",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "You're actively defining what's being built — deliverables, timeline, budget.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:33+00:00",
+        "updated_at": "2026-09-01T09:48:47+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "134",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:33+00:00",
+              "updated_at": "2026-08-26T06:10:33+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 135,
+        "parent_id": null,
+        "board_id": "18",
+        "crm_contact_id": null,
+        "title": "Add a custom field for contract value or budget",
+        "slug": "feature-tip-add-a-custom-field-for-contract-value-or-budget",
+        "type": "task",
+        "status": "open",
+        "stage_id": "212",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Visible at a glance on the card without opening a separate contract doc.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9f8fef"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:35+00:00",
+        "updated_at": "2026-09-01T09:49:14+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "135",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:35+00:00",
+              "updated_at": "2026-08-26T06:10:35+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 312,
+            "board_id": "18",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T09:45:41+00:00",
+            "updated_at": "2026-09-01T09:45:41+00:00",
+            "pivot": {
+              "object_id": "135",
+              "foreign_id": "312",
+              "settings": null,
+              "created_at": "2026-09-01T09:49:18+00:00",
+              "updated_at": "2026-09-01T09:49:18+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 136,
+        "parent_id": null,
+        "board_id": "18",
+        "crm_contact_id": null,
+        "title": "A card moves here once scope is locked and signed off",
+        "slug": "a-card-moves-here-once-scope-is-locked-and-signed-off",
+        "type": "task",
+        "status": "open",
+        "stage_id": "213",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Design shouldn't start against unconfirmed scope.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:37+00:00",
+        "updated_at": "2026-09-01T09:50:53+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "136",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:37+00:00",
+              "updated_at": "2026-08-26T06:10:37+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 137,
+        "parent_id": null,
+        "board_id": "18",
+        "crm_contact_id": null,
+        "title": "Break the card into subtasks",
+        "slug": "feature-tip-break-the-card-into-subtasks",
+        "type": "task",
+        "status": "open",
+        "stage_id": "213",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Use subtasks for wireframes, mockups, and each client approval round, so revision cycles don't get buried inside one card.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9f8fef"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:39+00:00",
+        "updated_at": "2026-09-01T09:49:56+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "137",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:39+00:00",
+              "updated_at": "2026-08-26T06:10:39+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 312,
+            "board_id": "18",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T09:45:41+00:00",
+            "updated_at": "2026-09-01T09:45:41+00:00",
+            "pivot": {
+              "object_id": "137",
+              "foreign_id": "312",
+              "settings": null,
+              "created_at": "2026-09-01T09:49:52+00:00",
+              "updated_at": "2026-09-01T09:49:52+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 138,
+        "parent_id": null,
+        "board_id": "18",
+        "crm_contact_id": null,
+        "title": "A card moves here once the client approves the design",
+        "slug": "a-card-moves-here-once-the-client-approves-the-design",
+        "type": "task",
+        "status": "open",
+        "stage_id": "214",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Development shouldn't start against unapproved work.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:40+00:00",
+        "updated_at": "2026-09-01T09:51:02+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "138",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:40+00:00",
+              "updated_at": "2026-08-26T06:10:40+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 139,
+        "parent_id": null,
+        "board_id": "18",
+        "crm_contact_id": null,
+        "title": "Set the default assignee to your lead developer",
+        "slug": "feature-tip-set-the-default-assignee-to-your-lead-developer",
+        "type": "task",
+        "status": "open",
+        "stage_id": "214",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Every card reaching this stage routes to them automatically.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9f8fef"
+          },
+          "subtask_count": "0",
+          "attachment_count": 1,
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:42+00:00",
+        "updated_at": "2026-09-01T09:52:02+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "139",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:42+00:00",
+              "updated_at": "2026-08-26T06:10:42+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 312,
+            "board_id": "18",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T09:45:41+00:00",
+            "updated_at": "2026-09-01T09:45:41+00:00",
+            "pivot": {
+              "object_id": "139",
+              "foreign_id": "312",
+              "settings": null,
+              "created_at": "2026-09-01T09:51:13+00:00",
+              "updated_at": "2026-09-01T09:51:13+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 140,
+        "parent_id": null,
+        "board_id": "18",
+        "crm_contact_id": null,
+        "title": "A card moves here once a build is ready for the client to see",
+        "slug": "a-card-moves-here-once-a-build-is-ready-for-the-client-to-see",
+        "type": "task",
+        "status": "open",
+        "stage_id": "215",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "And respond to.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:44+00:00",
+        "updated_at": "2026-09-01T09:52:24+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "140",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:44+00:00",
+              "updated_at": "2026-08-26T06:10:44+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 141,
+        "parent_id": null,
+        "board_id": "18",
+        "crm_contact_id": null,
+        "title": "Save this stage's checklist as a task template",
+        "slug": "feature-tip-save-this-stages-checklist-as-a-task-template",
+        "type": "task",
+        "status": "open",
+        "stage_id": "215",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Reuse the same review structure on every project instead of rebuilding it from scratch.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9f8fef"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:45+00:00",
+        "updated_at": "2026-09-01T09:52:44+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "141",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:45+00:00",
+              "updated_at": "2026-08-26T06:10:45+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 312,
+            "board_id": "18",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T09:45:41+00:00",
+            "updated_at": "2026-09-01T09:45:41+00:00",
+            "pivot": {
+              "object_id": "141",
+              "foreign_id": "312",
+              "settings": null,
+              "created_at": "2026-09-01T09:52:47+00:00",
+              "updated_at": "2026-09-01T09:52:47+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 142,
+        "parent_id": null,
+        "board_id": "18",
+        "crm_contact_id": null,
+        "title": "A card moves here once the client approves everything",
+        "slug": "a-card-moves-here-once-the-client-approves-everything",
+        "type": "task",
+        "status": "open",
+        "stage_id": "216",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Only final QA and go-live remain.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:47+00:00",
+        "updated_at": "2026-09-01T09:53:52+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "142",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:47+00:00",
+              "updated_at": "2026-08-26T06:10:47+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 143,
+        "parent_id": null,
+        "board_id": "18",
+        "crm_contact_id": null,
+        "title": "Log total time spent across the project",
+        "slug": "feature-tip-log-total-time-spent-across-the-project",
+        "type": "task",
+        "status": "open",
+        "stage_id": "216",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Compare against your original estimate — useful for pricing future projects.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9f8fef"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:10:48+00:00",
+        "updated_at": "2026-09-01T09:53:43+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "143",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:10:48+00:00",
+              "updated_at": "2026-08-26T06:10:48+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 312,
+            "board_id": "18",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T09:45:41+00:00",
+            "updated_at": "2026-09-01T09:45:41+00:00",
+            "pivot": {
+              "object_id": "143",
+              "foreign_id": "312",
+              "settings": null,
+              "created_at": "2026-09-01T09:53:40+00:00",
+              "updated_at": "2026-09-01T09:53:40+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      }
+    ]
+  }
+}

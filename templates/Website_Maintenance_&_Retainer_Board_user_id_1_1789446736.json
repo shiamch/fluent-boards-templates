@@ -1,0 +1,1095 @@
+{
+  "key": "FluentBoards",
+  "site_url": "http://fluentboards-staging.local/",
+  "board": {
+    "id": 20,
+    "parent_id": null,
+    "title": "Website Maintenance & Retainer Board",
+    "description": "Organize recurring tasks, monthly work, and client escalations for retainer clients\n",
+    "type": "to-do",
+    "currency": "USD",
+    "background": {
+      "color": null,
+      "id": 17,
+      "image_url": "http://fluentboards-staging.local/index.php?fbs=1&fbs_type=public_url&fbs_bid=20&fbs_comment_image=279898519bf02c3caba2739f1c35e99a",
+      "is_image": true
+    },
+    "settings": {
+      "tasks_count": 10,
+      "is_template": true,
+      "template_category": "development",
+      "template_description": "Organize recurring tasks, monthly work, and client escalations for retainer clients"
+    },
+    "created_by": "1",
+    "archived_at": null,
+    "meta": {
+      "custom_field_positions": "yes",
+      "json_export_1": "a:5:{s:6:\"status\";s:9:\"preparing\";s:8:\"progress\";i:0;s:4:\"user\";i:1;s:9:\"file_path\";s:175:\"/Users/naderahmedchowdhury/Local Sites/fluentboards-staging/app/public/wp-content/uploads/fluent-boards/board_20/Website_Maintenance_&_Retainer_Board_user_id_1_1789446736.json\";s:11:\"total_tasks\";i:12;}"
+    },
+    "isUserOnlyViewer": false,
+    "stages": [
+      {
+        "id": 235,
+        "board_id": "20",
+        "title": "Recurring Tasks",
+        "slug": "recurring-tasks",
+        "type": "stage",
+        "position": "1.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:58+00:00",
+        "updated_at": "2026-08-26T05:32:58+00:00"
+      },
+      {
+        "id": 236,
+        "board_id": "20",
+        "title": "This Month's Queue",
+        "slug": "this-month's-queue",
+        "type": "stage",
+        "position": "2.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:58+00:00",
+        "updated_at": "2026-08-26T05:32:58+00:00"
+      },
+      {
+        "id": 237,
+        "board_id": "20",
+        "title": "In Progress",
+        "slug": "in-progress",
+        "type": "stage",
+        "position": "3.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:58+00:00",
+        "updated_at": "2026-08-26T05:32:58+00:00"
+      },
+      {
+        "id": 238,
+        "board_id": "20",
+        "title": "Client Review",
+        "slug": "client-review",
+        "type": "stage",
+        "position": "4.00",
+        "color": null,
+        "bg_color": null,
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:58+00:00",
+        "updated_at": "2026-08-26T05:32:58+00:00"
+      },
+      {
+        "id": 239,
+        "board_id": "20",
+        "title": "Completed",
+        "slug": "completed",
+        "type": "stage",
+        "position": "5.00",
+        "color": null,
+        "bg_color": "#4bce97",
+        "settings": {
+          "default_task_status": "closed",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:58+00:00",
+        "updated_at": "2026-09-01T06:57:00+00:00"
+      },
+      {
+        "id": 240,
+        "board_id": "20",
+        "title": "Escalations",
+        "slug": "escalations",
+        "type": "stage",
+        "position": "6.00",
+        "color": null,
+        "bg_color": "#faa53d",
+        "settings": {
+          "default_task_status": "open",
+          "is_template": false
+        },
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:58+00:00",
+        "updated_at": "2026-09-01T06:57:21+00:00"
+      }
+    ],
+    "labels": [
+      {
+        "id": 229,
+        "board_id": "20",
+        "title": "Monthly Retainer",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#6B7280",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:58+00:00",
+        "updated_at": "2026-09-01T06:42:02+00:00"
+      },
+      {
+        "id": 230,
+        "board_id": "20",
+        "title": "One-Off Request",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#335CFF",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:58+00:00",
+        "updated_at": "2026-09-01T06:42:05+00:00"
+      },
+      {
+        "id": 231,
+        "board_id": "20",
+        "title": "Out of Scope",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#FF3B4A",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:58+00:00",
+        "updated_at": "2026-09-01T06:42:10+00:00"
+      },
+      {
+        "id": 232,
+        "board_id": "20",
+        "title": "Urgent/Downtime",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#FFFFFF",
+        "bg_color": "#7C4DFF",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:58+00:00",
+        "updated_at": "2026-09-01T06:42:22+00:00"
+      },
+      {
+        "id": 233,
+        "board_id": "20",
+        "title": "Backup/Security",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#F97316",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:58+00:00",
+        "updated_at": "2026-09-01T06:42:28+00:00"
+      },
+      {
+        "id": 234,
+        "board_id": "20",
+        "title": "Plugin Updates",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#47B6E8",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T05:32:58+00:00",
+        "updated_at": "2026-09-01T06:42:32+00:00"
+      },
+      {
+        "id": 309,
+        "board_id": "20",
+        "title": "Feature Tip",
+        "slug": null,
+        "type": "label",
+        "position": "1.00",
+        "color": "#1B2533",
+        "bg_color": "#D1D654",
+        "settings": null,
+        "archived_at": null,
+        "created_at": "2026-09-01T06:42:57+00:00",
+        "updated_at": "2026-09-01T06:42:57+00:00"
+      }
+    ],
+    "users": [],
+    "custom_fields": [],
+    "tasks": [
+      {
+        "id": 158,
+        "parent_id": null,
+        "board_id": "20",
+        "crm_contact_id": null,
+        "title": "This stage holds your recurring task",
+        "slug": "monthly-security-scan",
+        "type": "task",
+        "status": "open",
+        "stage_id": "235",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Setup, not new work generated per cycle.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:12:55+00:00",
+        "updated_at": "2026-09-01T06:45:38+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "158",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:12:55+00:00",
+              "updated_at": "2026-08-26T06:12:55+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 159,
+        "parent_id": null,
+        "board_id": "20",
+        "crm_contact_id": null,
+        "title": "Set up Recurring Tasks",
+        "slug": "weekly-backup-verification",
+        "type": "task",
+        "status": "open",
+        "stage_id": "235",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Define a task once — monthly backups, plugin updates, uptime checks — and it regenerates automatically on schedule, instead of recreating it by hand every billing cycle\n",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9CA0FF"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:12:57+00:00",
+        "updated_at": "2026-09-01T06:44:55+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "159",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:12:57+00:00",
+              "updated_at": "2026-08-26T06:12:57+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 309,
+            "board_id": "20",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T06:42:57+00:00",
+            "updated_at": "2026-09-01T06:42:57+00:00",
+            "pivot": {
+              "object_id": "159",
+              "foreign_id": "309",
+              "settings": null,
+              "created_at": "2026-09-01T06:45:09+00:00",
+              "updated_at": "2026-09-01T06:45:09+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 160,
+        "parent_id": null,
+        "board_id": "20",
+        "crm_contact_id": null,
+        "title": "Holds this cycle's active work",
+        "slug": "update-plugins-and-themes",
+        "type": "task",
+        "status": "open",
+        "stage_id": "236",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Both recurring tasks that just regenerated and any one-off requests added manually for the month\n",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:12:58+00:00",
+        "updated_at": "2026-09-01T06:46:29+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "160",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:12:58+00:00",
+              "updated_at": "2026-08-26T06:12:58+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 161,
+        "parent_id": null,
+        "board_id": "20",
+        "crm_contact_id": null,
+        "title": "Feature tip — duplicate this board for each retainer client.",
+        "slug": "review-site-performance-metrics",
+        "type": "task",
+        "status": "open",
+        "stage_id": "236",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Board duplication clones the entire structure — stages, recurring task setup, labels — for a new client instead of rebuilding from scratch.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "0.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": "2026-09-01 06:46:05",
+        "created_at": "2026-08-26T06:13:01+00:00",
+        "updated_at": "2026-09-01T06:46:05+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "161",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:01+00:00",
+              "updated_at": "2026-08-26T06:13:01+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 162,
+        "parent_id": null,
+        "board_id": "20",
+        "crm_contact_id": null,
+        "title": "A card moves here once someone is actively working it this cycle",
+        "slug": "fix-broken-contact-form",
+        "type": "task",
+        "status": "open",
+        "stage_id": "237",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Active work, not queued.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:04+00:00",
+        "updated_at": "2026-09-01T06:46:39+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "162",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:04+00:00",
+              "updated_at": "2026-08-26T06:13:04+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 163,
+        "parent_id": null,
+        "board_id": "20",
+        "crm_contact_id": null,
+        "title": "Break a task into subtasks for multi-site or multi-step work",
+        "slug": "optimize-homepage-load-speed",
+        "type": "task",
+        "status": "open",
+        "stage_id": "237",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Track each site or step independently instead of one card standing in for several.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9CA0FF"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:06+00:00",
+        "updated_at": "2026-09-01T06:47:12+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "163",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:06+00:00",
+              "updated_at": "2026-08-26T06:13:06+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 309,
+            "board_id": "20",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T06:42:57+00:00",
+            "updated_at": "2026-09-01T06:42:57+00:00",
+            "pivot": {
+              "object_id": "163",
+              "foreign_id": "309",
+              "settings": null,
+              "created_at": "2026-09-01T06:47:16+00:00",
+              "updated_at": "2026-09-01T06:47:16+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 164,
+        "parent_id": null,
+        "board_id": "20",
+        "crm_contact_id": null,
+        "title": "Only used when a client needs to sign off on something visible",
+        "slug": "review-updated-privacy-policy-page",
+        "type": "task",
+        "status": "open",
+        "stage_id": "238",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Like a design tweak — most retainer work skips this stage entirely.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:10+00:00",
+        "updated_at": "2026-09-01T06:48:37+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "164",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:10+00:00",
+              "updated_at": "2026-08-26T06:13:10+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 165,
+        "parent_id": null,
+        "board_id": "20",
+        "crm_contact_id": null,
+        "title": "Set the default assignee to whoever handles client communication",
+        "slug": "approve-new-testimonials-section",
+        "type": "task",
+        "status": "open",
+        "stage_id": "238",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Anything landing here routes to them automatically.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "2.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9CA0FF"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:12+00:00",
+        "updated_at": "2026-09-01T06:50:37+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "165",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:12+00:00",
+              "updated_at": "2026-08-26T06:13:12+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 309,
+            "board_id": "20",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T06:42:57+00:00",
+            "updated_at": "2026-09-01T06:42:57+00:00",
+            "pivot": {
+              "object_id": "165",
+              "foreign_id": "309",
+              "settings": null,
+              "created_at": "2026-09-01T06:50:43+00:00",
+              "updated_at": "2026-09-01T06:50:43+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 166,
+        "parent_id": null,
+        "board_id": "20",
+        "crm_contact_id": null,
+        "title": "A card moves here once finished for the cycle",
+        "slug": "ssl-certificate-renewal",
+        "type": "task",
+        "status": "closed",
+        "stage_id": "239",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Stays here until the next billing period.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:14+00:00",
+        "updated_at": "2026-09-01T06:51:39+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "166",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:14+00:00",
+              "updated_at": "2026-08-26T06:13:14+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 167,
+        "parent_id": null,
+        "board_id": "20",
+        "crm_contact_id": null,
+        "title": "Add a custom field for time spent",
+        "slug": "q2-analytics-report-delivered",
+        "type": "task",
+        "status": "closed",
+        "stage_id": "240",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Compare actual hours against what the retainer contractually covers.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.50",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": "#9CA0FF"
+          },
+          "subtask_count": "0",
+          "attachment_count": "0",
+          "subtask_completed_count": "0"
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:18+00:00",
+        "updated_at": "2026-09-01T06:52:29+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "167",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:18+00:00",
+              "updated_at": "2026-08-26T06:13:18+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [
+          {
+            "id": 309,
+            "board_id": "20",
+            "title": "Feature Tip",
+            "slug": null,
+            "type": "label",
+            "position": "1.00",
+            "color": "#1B2533",
+            "bg_color": "#D1D654",
+            "settings": null,
+            "archived_at": null,
+            "created_at": "2026-09-01T06:42:57+00:00",
+            "updated_at": "2026-09-01T06:42:57+00:00",
+            "pivot": {
+              "object_id": "167",
+              "foreign_id": "309",
+              "settings": null,
+              "created_at": "2026-09-01T06:52:21+00:00",
+              "updated_at": "2026-09-01T06:52:21+00:00"
+            }
+          }
+        ],
+        "custom_fields": []
+      },
+      {
+        "id": 168,
+        "parent_id": null,
+        "board_id": "20",
+        "crm_contact_id": null,
+        "title": "A card moves here when work falls outside retainer scope",
+        "slug": "critical-database-error-investigate-immediately",
+        "type": "task",
+        "status": "open",
+        "stage_id": "240",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Needs a separate conversation about additional billing.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "1.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": null,
+        "created_at": "2026-08-26T06:13:19+00:00",
+        "updated_at": "2026-09-01T06:51:51+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "168",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:19+00:00",
+              "updated_at": "2026-08-26T06:13:19+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      },
+      {
+        "id": 169,
+        "parent_id": null,
+        "board_id": "20",
+        "crm_contact_id": null,
+        "title": "Feature tip — set priority to flag which escalations need attention first.",
+        "slug": "site-down-incident-response",
+        "type": "task",
+        "status": "open",
+        "stage_id": "240",
+        "source": "web",
+        "source_id": null,
+        "priority": "",
+        "description": "Separate \"needs a quote next week\" from \"site is down, needs addressing today,\" even though both sit outside the retainer.",
+        "lead_value": "0.00",
+        "created_by": "1",
+        "position": "0.00",
+        "comments_count": "0",
+        "issue_number": null,
+        "reminder_type": "none",
+        "settings": {
+          "cover": {
+            "backgroundColor": ""
+          },
+          "subtask_count": 0,
+          "attachment_count": 0,
+          "subtask_completed_count": 0
+        },
+        "remind_at": null,
+        "started_at": null,
+        "due_at": null,
+        "last_completed_at": null,
+        "archived_at": "2026-09-01 06:52:39",
+        "created_at": "2026-08-26T06:13:21+00:00",
+        "updated_at": "2026-09-01T06:52:39+00:00",
+        "meta": [],
+        "repeat_task_meta": null,
+        "is_pinned": 0,
+        "assignees": [],
+        "watchers": [
+          {
+            "ID": 1,
+            "user_login": "admin",
+            "user_nicename": "admin",
+            "user_email": "dev-email@wpengine.local",
+            "user_url": "http://fluentboards-staging.local",
+            "user_registered": "2026-07-27 10:01:22",
+            "user_status": "0",
+            "display_name": "admin",
+            "photo": "https://secure.gravatar.com/avatar/33e54dec0cd79fc4b5e911c15f836c46ec8d0e452ecd3ca5f707bce0a3540a3b?s=128&d=mm&r=g",
+            "pivot": {
+              "object_id": "169",
+              "foreign_id": "1",
+              "settings": null,
+              "created_at": "2026-08-26T06:13:21+00:00",
+              "updated_at": "2026-08-26T06:13:21+00:00"
+            }
+          }
+        ],
+        "comments": [],
+        "subtask_group": [],
+        "labels": [],
+        "custom_fields": []
+      }
+    ]
+  }
+}
