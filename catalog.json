@@ -9,7 +9,7 @@
       "stages_count": 6,
       "labels_count": 8,
       "tasks_count": 10,
-      "background_url": null,
+      "background_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/Fboards%20Template%20BG/Blog%20Content%20Publishing%20Template.webp",
       "background_color": null,
       "type": "to-do",
       "template_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/templates/Blog_Content_Publishing_Template_user_id_1_1789446601.json"
@@ -22,7 +22,7 @@
       "stages_count": 6,
       "labels_count": 7,
       "tasks_count": 12,
-      "background_url": null,
+      "background_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/Fboards%20Template%20BG/Client%20Website%20Project%20Board.webp",
       "background_color": "#8C8920",
       "type": "to-do",
       "template_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/templates/Client_Website_Project_Board_user_id_1_1789446662.json"
@@ -35,7 +35,7 @@
       "stages_count": 5,
       "labels_count": 7,
       "tasks_count": 8,
-      "background_url": null,
+      "background_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/Fboards%20Template%20BG/Content%20Calendar%20Board.webp",
       "background_color": null,
       "type": "to-do",
       "template_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/templates/Content_Calendar_Board_user_id_1_1789446825.json"
@@ -48,7 +48,7 @@
       "stages_count": 5,
       "labels_count": 7,
       "tasks_count": 9,
-      "background_url": null,
+      "background_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/Fboards%20Template%20BG/Employee%20Onboarding%20Board.webp",
       "background_color": null,
       "type": "to-do",
       "template_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/templates/Employee_Onboarding_Board_user_id_1_1789446804.json"
@@ -61,7 +61,7 @@
       "stages_count": 7,
       "labels_count": 6,
       "tasks_count": 15,
-      "background_url": null,
+      "background_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/Fboards%20Template%20BG/Public%20Feature%20Roadmap.webp",
       "background_color": "linear-gradient(145deg, #5E69F9 0%, #F3A6FB 100%)",
       "type": "roadmap",
       "template_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/templates/Public_Feature_Roadmap_user_id_1_1789446711.json"
@@ -74,7 +74,7 @@
       "stages_count": 6,
       "labels_count": 7,
       "tasks_count": 12,
-      "background_url": null,
+      "background_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/Fboards%20Template%20BG/Sales%20Pipeline%20Board.webp",
       "background_color": "#522BC1",
       "type": "to-do",
       "template_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/templates/Sales_Pipeline_Board_user_id_1_1789446777.json"
@@ -87,7 +87,7 @@
       "stages_count": 6,
       "labels_count": 8,
       "tasks_count": 11,
-      "background_url": null,
+      "background_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/Fboards%20Template%20BG/Support%20Escalation%20Board.webp",
       "background_color": null,
       "type": "to-do",
       "template_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/templates/Support_Escalation_Board_user_id_1_1789446634.json"
@@ -100,7 +100,7 @@
       "stages_count": 6,
       "labels_count": 7,
       "tasks_count": 10,
-      "background_url": null,
+      "background_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/Fboards%20Template%20BG/Website%20Maintenance%20%26%20Retainer%20Board.webp",
       "background_color": null,
       "type": "to-do",
       "template_url": "https://raw.githubusercontent.com/shiamch/fluent-boards-templates/main/templates/Website_Maintenance_%26_Retainer_Board_user_id_1_1789446736.json"
