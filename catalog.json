@@ -55,7 +55,7 @@
     },
     {
       "id": "public-feature-roadmap",
-      "category": "development",
+      "category": "product-management",
       "title": "Public Feature Roadmap",
       "description": "Communicate upcoming product features and priorities to your audience",
       "stages_count": 7,
@@ -81,7 +81,7 @@
     },
     {
       "id": "support-escalation",
-      "category": "other",
+      "category": "support",
       "title": "Support Escalation Board",
       "description": "Track, prioritize, and resolve customer support issues through to closure",
       "stages_count": 6,
