@@ -2298,7 +2298,7 @@
           "title": "In Production",
           "slug": "in-production",
           "type": "stage",
-          "position": "1.50",
+          "position": "2.00",
           "color": null,
           "bg_color": null,
           "settings": {
@@ -2315,7 +2315,7 @@
           "title": "Review",
           "slug": "review",
           "type": "stage",
-          "position": "1.75",
+          "position": "3.00",
           "color": null,
           "bg_color": null,
           "settings": {
@@ -2332,7 +2332,7 @@
           "title": "Scheduled",
           "slug": "scheduled",
           "type": "stage",
-          "position": "2.00",
+          "position": "4.00",
           "color": null,
           "bg_color": null,
           "settings": {
